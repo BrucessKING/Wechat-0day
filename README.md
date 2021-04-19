@@ -26,3 +26,8 @@ Wechat-0day微信0day利用
 
 ![5.png](https://i.loli.net/2021/04/19/8fLHG4uRITt9pOD.png)
 
+#### 0x05 上线
+
+进程名确实是WeChatWeb.exe，上线成功
+
+![6.png](https://i.loli.net/2021/04/19/IOUpqNJvAiDhl8S.png)
